@@ -2,7 +2,7 @@ ToDo Mobile App
 
 Folders Structure
 
--assets (imgs, fonts etc.)
+-assets (imgs, fonts etc.),
 -components (reuseable part of the code)
 -constans (constant variables)
 -screens (all apps screens (pages))
