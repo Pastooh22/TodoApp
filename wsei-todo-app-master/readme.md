@@ -1,16 +1,14 @@
-TooDo Mobile App
+ToDo Mobile App
 
 Folders Structure
 
-assets (imgs, fonts etc.)
-components (reuseable part of the code)
-constans (constant variables)
-screens (all apps screens (pages))
+-assets (imgs, fonts etc.)
+-components (reuseable part of the code)
+-constans (constant variables)
+-screens (all apps screens (pages))
 -home (home page of the app)
 -photos (third page of the app, with pictures)
 -todolist (middle page of the app, with an actual todo list function)
-
-
 
 Usage
 
